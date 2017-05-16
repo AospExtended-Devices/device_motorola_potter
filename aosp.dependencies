@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "github",
+    "repository":  "boulzordev/android_kernel_motorola_msm8953",
+    "target_path": "kernel/motorola/msm8953",
+    "branch": "cm-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "boulzordev/android_vendor_motorola_potter",
+    "target_path": "vendor/motorola/potter",
+    "branch": "master"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "branch": "cm-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "cm-14.1"
+  }
+]
