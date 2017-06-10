@@ -84,6 +84,9 @@ dalvik.vm.heapsize=384m
 dalvik.vm.heapstartsize=8m
 dalvik.vm.heaptargetutilization=0.75
 
+# Device
+ro.product.model=Moto G5 Plus
+
 # Display
 debug.egl.hw=1
 debug.enable.sglscale=1
