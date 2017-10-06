@@ -124,7 +124,7 @@ PRODUCT_COPY_FILES += \
 
 # CMActions
 PRODUCT_PACKAGES += \
-    CMActions
+    LineageActions
 
 # Display
 PRODUCT_PACKAGES += \
