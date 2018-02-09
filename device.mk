@@ -99,10 +99,6 @@ PRODUCT_PACKAGES += \
     android.hardware.bluetooth@1.0-impl \
     android.hardware.bluetooth@1.0-service
 
-# Browser
-PRODUCT_PACKAGES += \
-    Gello
-
 # Camera
 PRODUCT_PACKAGES += \
     libbson \
@@ -111,7 +107,7 @@ PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.4-impl \
     libshim_camera_hal \
     libshims_camera \
-    SnapdragonCamera
+    Snap
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/camera/msm8953_mot_potter_camera.xml:system/etc/camera/msm8953_mot_potter_camera.xml \
