@@ -9,7 +9,7 @@
     "remote": "github",
     "repository": "BigTopKrazies/vendor_motorola_potter",
     "target_path": "vendor/motorola/potter",
-    "branch": "9.0"
+    "branch": "9.x"
   },
   {
     "remote": "github",
