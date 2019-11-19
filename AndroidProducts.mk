@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/gzosp_potter.mk
+    $(LOCAL_DIR)/aosp_potter.mk
 
 COMMON_LUNCH_CHOICES := \
-    gzosp_potter-user \
-    gzosp_potter-userdebug \
-    gzosp_potter-eng
+    aosp_potter-user \
+    aosp_potter-userdebug \
+    aosp_potter-eng
